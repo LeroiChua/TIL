@@ -1,0 +1,1 @@
+This repo will contain lessons and code examples of snippets of software technologies. 
